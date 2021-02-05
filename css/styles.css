@@ -1,0 +1,32 @@
+html{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.amp{
+     margin-bottom: 20px;
+}
+#btn{
+    margin-left: 25px;
+}
+#move {
+    margin-top: 0;
+    margin: 15px 50px 15px 0px;
+    padding: 0px 50px 0px 0px;
+    font-size: 20px;
+}
+.container .s1{
+    margin-top: 10px;
+}
+.navbar{
+    margin-bottom: 25px;
+}
+
+
+/* modal */
+li{
+    list-style: none;
+    padding: 10px 0 10px 10px;
+
+}
